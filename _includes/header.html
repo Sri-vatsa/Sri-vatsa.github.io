@@ -1,0 +1,22 @@
+<header class="site-header">
+
+  <div class="wrapper">
+
+    <nav class="site-nav">
+
+      <div class="trigger">
+        <a class="page-link" href="{{ site.baseurl }}/">home</a>
+        <a class="page-link smoothscroll" href="{{ site.baseurl }}/#about">about</a>
+        {% for page in site.pages %}
+          {% if page.title %}
+          <a class="page-link smoothscroll" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+          {% endif %} 
+        {% endfor %}
+        <a class="page-link smoothscroll" href="{{ site.baseurl }}/#contact">contact</a>
+
+      </div>
+    </nav>
+
+  </div>
+
+</header>
