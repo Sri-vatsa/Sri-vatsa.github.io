@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   A bit about myself
 baseurl:  # the subpath of your site, e.g. /blog/
 url:  https://psrivatsa.com
-github_username:  sri-vatsa
+github_username: sri-vatsa
 
 # Build settings
 markdown: kramdown
@@ -13,9 +13,13 @@ markdown: kramdown
 highlighter: rouge
 
 # Pagination
-plugins:
-  - jekyll-paginate
 paginate: 1
 paginate_path: "/blog/page:num/"
 
+collections:
+  portfolio:
+    output: true
+    permalink: /portfolio/:path/
 
+# Gems
+gems: [jekyll-paginate]
