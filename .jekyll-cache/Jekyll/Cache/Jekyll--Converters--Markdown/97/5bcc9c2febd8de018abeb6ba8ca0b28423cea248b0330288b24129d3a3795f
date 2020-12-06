@@ -1,0 +1,72 @@
+I"U<div class="blog">
+<h5 class="section-intro">Projects</h5>
+<h1 class="blog-heading">Thoughts, code and more.</h1>
+<!--<h5 style="text-align: center;">Under construction, please come back again soon...</h5>-->
+<hr />
+<ul class="post-list">
+    
+    <li>
+      <h2><a class="post-title" href="/portfolio/differential-privacy/">Differential Privacy</a></h2>
+      <p class="post-meta">December 1, 2019</p>
+      <p>Comparative study of privacy-preserving techniques for deep learning (Paper)</p>
+      <hr />
+    </li>
+    
+    <li>
+      <h2><a class="post-title" href="/portfolio/yoso/">You Only Spike Once (YOSO)</a></h2>
+      <p class="post-meta">December 1, 2020</p>
+      <p>ImprovingEnergy-Efficient Neuromorphic Inference toANN-Level Accuracy (Paper)</p>
+      <hr />
+    </li>
+    
+  </ul>
+
+<!--
+
+
+
+
+<div class="project ">
+    <div class="thumbnail">
+        <a href="/portfolio/differential-privacy/">
+        
+        <img class="thumbnail" src="/img/12.jpg"/>
+            
+        <span>
+            <h1>Differential Privacy</h1>
+            <br/>
+            <p>Comparative study of privacy-preserving techniques for deep learning (Paper)</p>
+        </span>
+        </a>
+    </div>
+</div>
+
+
+
+
+
+
+
+<div class="project ">
+    <div class="thumbnail">
+        <a href="/portfolio/yoso/">
+        
+        <img class="thumbnail" src="/img/12.jpg"/>
+            
+        <span>
+            <h1>You Only Spike Once (YOSO)</h1>
+            <br/>
+            <p>ImprovingEnergy-Efficient Neuromorphic Inference toANN-Level Accuracy (Paper)</p>
+        </span>
+        </a>
+    </div>
+</div>
+
+
+
+
+-->
+<div>
+
+</div></div>
+:ET

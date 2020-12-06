@@ -1,0 +1,72 @@
+I"±<div class="blog">
+<h5 class="section-intro">Projects</h5>
+<h1 class="blog-heading">Thoughts, code and more.</h1>
+<!--<h5 style="text-align: center;">Under construction, please come back again soon...</h5>-->
+<hr />
+<ul class="post-list">
+    
+    <li>
+      <h2><a class="post-title" href="/portfolio/1_project/">Project</a></h2>
+      <p class="post-meta"></p>
+      <p>a project with a background image</p>
+      <hr />
+    </li>
+    
+    <li>
+      <h2><a class="post-title" href="/portfolio/differential-privacy/">Differential Privacy</a></h2>
+      <p class="post-meta"></p>
+      <p>Comparative study of privacy-preserving techniques for deep Learning</p>
+      <hr />
+    </li>
+    
+  </ul>
+
+<!--
+
+
+
+
+<div class="project ">
+    <div class="thumbnail">
+        <a href="/portfolio/1_project/">
+        
+        <img class="thumbnail" src="/img/12.jpg"/>
+            
+        <span>
+            <h1>Project</h1>
+            <br/>
+            <p>a project with a background image</p>
+        </span>
+        </a>
+    </div>
+</div>
+
+
+
+
+
+
+
+<div class="project ">
+    <div class="thumbnail">
+        <a href="/portfolio/differential-privacy/">
+        
+        <img class="thumbnail" src="/img/12.jpg"/>
+            
+        <span>
+            <h1>Differential Privacy</h1>
+            <br/>
+            <p>Comparative study of privacy-preserving techniques for deep Learning</p>
+        </span>
+        </a>
+    </div>
+</div>
+
+
+
+
+-->
+<div>
+
+</div></div>
+:ET

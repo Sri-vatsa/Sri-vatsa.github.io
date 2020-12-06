@@ -1,0 +1,36 @@
+I"g<p><a class="text-link" href="http://workshops.inf.ed.ac.uk/accml/papers/2020-isca/2nd_AccML_paper_1.pdf">Link
+to full paper</a></p>
+
+<h2>The Problem</h2>
+
+<p>Recently, artificial neural networks (ANNs) have emerged asthe  most  promising
+candidates  for  performing  a  wide  range  oftasks such as image
+classification and recognition, object detection,speech recognition, and
+speech-to-text translation. There have beensignificant improvements in the
+classification accuracies of ANNs,and  in  2015,  ANNs  achieved  human-level
+accuracy at  theImageNet 2012 Visual Recognition Challenge. However,
+thehigh classification performance of ANNs comes at the expenseof a large number
+of memory accesses and compute operations,which results in higher power and
+energy consumption. Recently,there has been an increased focus on developing
+more efficient ANNs.</p>
+
+<h2>What I did</h2>
+
+<p>The main objective of this work is to accelerate the inference of TTFS-based SNNs on low-power devices, with minimal loss to accuracy. Therefore, this work focuses on (1) improving the classification performance of TTFS-based SNNs, and (2) designing a low-power neuromorphic hardware accelerator for performing inference of TTFS-based SNNs. The main contributions of this work can be listed as follows:</p>
+<ul>
+    <li>A new training algorithm that reduces the errors accumulated as a result of converting pre-trained neural network models to SNNs.</li> 
+    <li> A novel low-power neuromorphic architecture, \nameofwork{} is designed to accelerate the inference operations of TTFS-based SNNs.</li> 
+    <li>An end-to-end neuromorphic technique that demonstrates the state-of-the-art performance and accuracy for TTFS-based SNNs.</li> 
+</ul>
+
+<h2>Take Aways</h2>
+
+<div class="img_row">
+    <img class="col two" src="/img/portfolio/yoso-accuracy-chart.png" alt="" title="accuracy results" />
+	<img class="col two" src="/img/portfolio/yoso-power-comp-chart.png" alt="" title="power performance" />
+</div>
+
+<p>More details can be found in our paper 
+<a class="text-link" href="http://workshops.inf.ed.ac.uk/accml/papers/2020-isca/2nd_AccML_paper_1.pdf">here.</a></p>
+
+:ET

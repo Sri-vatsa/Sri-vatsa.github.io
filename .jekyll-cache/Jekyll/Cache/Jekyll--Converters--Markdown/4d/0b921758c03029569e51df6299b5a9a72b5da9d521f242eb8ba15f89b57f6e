@@ -1,0 +1,16 @@
+I"|<p>With growing concerns over privacy, this work aims to study privacy preservation
+techniques using the differential privacy framework and, draw comparisons
+between medical and non-medical datasets from a privacy standpoint. We compare
+the use of Differentially Private Stochastic Gradient Descent(DP-SGD) and
+Private Aggregation of Teacher Ensembles(PATE) on three publicly available
+datasets.</p>
+
+<div class="img_row">
+	<img class="col one" src="/img/1.jpg" alt="" title="example image" />
+	<img class="col one" src="/img/2.jpg" alt="" title="example image" />
+	<img class="col one" src="/img/3.jpg" alt="" title="example image" />
+</div>
+<div class="col three caption">
+	Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+</div>
+:ET

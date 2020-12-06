@@ -1,0 +1,42 @@
+I"ò<div>
+	<img class="col three" src="/img/singapore.jpg" />
+</div>
+<div class="col three caption">
+	Photo by Zhu Hongzhi on Unsplash.
+</div>
+
+<h2 id="short-introduction">Short Introduction</h2>
+<p>Welcome! My name is Srivatsa. I am a final year undergraduate student
+from <b>Singapore</b> who is currently studying in <b>Germany</b> for a
+semester. I am also:</p>
+<ul>
+	<li>the co-founder <a class="text-link" href="https://www.healthquay.com" target="blank">
+@HealthQuay</a> in <b>Spain</b></li>
+	<li>shipping code for a startup in the <b>United States of America</b></li>
+	<li>working on <b>n</b> other projects</li>
+</ul>
+
+<p>For more details on my background, check out the <a class="text-link" href="" target="blank">
+About</a> page or my <a class="text-link" href="https://www.linkedin.com/in/srivatsa-p/" target="blank">
+LinkedIn</a> profile.</p>
+
+<h2 id="motivation">Motivation</h2>
+
+<p>I am convinced that as a society, we can grow together by learning from one
+another. I love reading great content and thought I could contribute myself as
+well. My goal for writing these posts is to really share ideas, insights and
+learnings from my experiences (both technical and non-technical). The type of
+content you can expect:</p>
+<ul>
+	<li>machine learning/software development tutorials</li>
+	<li>reflections on startup life</li>
+	<li>problem solving experience reports</li>
+    <li>any other topics that might be interesting to empathy driven development (business/technology)</li>
+</ul>
+
+<h2 id="wrap-up">Wrap up</h2>
+<p>I have tons of ideas for upcoming posts. Iâ€™m really excited and looking forward
+to sharing my experiences and add a bit of life to my static website :)</p>
+
+<p>If you have any feedback or want to get in touch, feel free to do so via social media.</p>
+:ET

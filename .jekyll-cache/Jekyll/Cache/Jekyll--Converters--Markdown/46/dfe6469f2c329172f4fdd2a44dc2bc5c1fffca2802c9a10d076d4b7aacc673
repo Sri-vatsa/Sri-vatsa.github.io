@@ -1,0 +1,19 @@
+I"v<h2>The Problem</h2>
+
+<p>In recent years, along with the rise of machine learning across a wide plethora of applications, we see massive troves of data being collected from individuals. Be it users’ online activity or diagnosis reports, large amounts of sensitive data are collected by a growing number of institutions, ranging from hospitals and government bodies to private companies and research organizations. This has ushered growing concerns associated with a potential loss of user privacy.</p>
+
+<h2>What I did&lt;/h1&gt;
+
+With growing concerns over privacy, this work aims to study privacy preservation
+techniques using the differential privacy framework and, draw comparisons
+between medical and non-medical datasets from a privacy standpoint. We compare
+the use of Differentially Private Stochastic Gradient Descent(DP-SGD) and
+Private Aggregation of Teacher Ensembles(PATE) on three publicly available
+datasets.
+
+<img class="center" src="/img/portfolio/DP_diagram.png" alt="" title="differential-privacy diagram" />
+<div class="col three caption">
+	Figure 1: Comparison between Global and Local Differential Privacy
+</div>
+</h2>
+:ET

@@ -5,9 +5,22 @@ permalink: /portfolio/
 ---
 
 <div class="blog">
-<h5 style="text-align: center;">Under construction, please come back again soon...</h5>
+<h5 class="section-intro">Projects</h5>
+<h1 class="blog-heading">Thoughts, code and more.</h1>
+<!--<h5 style="text-align: center;">Under construction, please come back again soon...</h5>-->
+<hr>
+<ul class="post-list">
+    {% for project in site.portfolio reversed %}
+    <li>
+      <h2><a class="post-title" href="{{ site.baseurl }}{{ project.url }}">{{ project.title }}</a></h2>
+      <p class="post-meta">{{ project.date | date: '%B %-d, %Y' }}</p>
+      <p>{{ project.description }}</p>
+      <hr />
+    </li>
+    {% endfor %}
+  </ul>
 
-<!---
+<!--
 {% for project in site.portfolio %}
 
 {% if project.redirect %}
