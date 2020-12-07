@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Differential Privacy
+title: Differential Privacy in Healthcare
 description: Comparative study of privacy-preserving techniques for deep learning (Paper)
 img: /img/12.jpg
 date: 2019-12-01 13:00:00 # GMT time
@@ -15,7 +15,7 @@ to full paper</a>
 
 In recent years, along with the rise of machine learning across a wide plethora of applications, we see massive troves of data being collected from individuals. Be it users' online activity or diagnosis reports, large amounts of sensitive data are collected by a growing number of institutions, ranging from hospitals and government bodies to private companies and research organizations. This has ushered growing concerns associated with a potential loss of user privacy.
 
-<h2>What I did</h2>
+<h2>What we did</h2>
 
 With growing concerns over privacy, this work aims to study privacy preservation
 techniques using the differential privacy framework and, draw comparisons
