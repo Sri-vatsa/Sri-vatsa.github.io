@@ -12,10 +12,17 @@ permalink: /portfolio/
 <ul class="post-list">
     {% for project in site.portfolio reversed %}
     <li>
-      <h2><a class="post-title" href="{{ site.baseurl }}{{ project.url }}">{{ project.title }}</a></h2>
-      <p class="post-meta">{{ project.date | date: '%B %-d, %Y' }}</p>
-      <p>{{ project.description }}</p>
-      <hr />
+        <div class="row">
+            <div class="column-img">
+                <a class="post-title" href="{{ site.baseurl }}{{ project.url }}"><img class="thumbnail center" style="{{ project.style }}" src="{{ project.img }}"></a> 
+            </div>
+            <div class="column-project">
+                <h2><a class="post-title" href="{{ site.baseurl }}{{ project.url }}">{{ project.title }}</a></h2>
+                <p class="post-meta">{{ project.date | date: '%B %-d, %Y' }}</p>
+                <p>{{ project.description }}</p>
+            </div>
+        </div>
+        <hr />
     </li>
     {% endfor %}
   </ul>
