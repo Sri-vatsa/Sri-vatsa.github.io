@@ -2,7 +2,8 @@
 layout: post
 title: PAL
 description: Assisting Habit formation using Machine Learning
-img: /img/12.jpg
+img: /img/portfolio/pal-logo-2.png
+style: "width:70%; height:auto;"
 date: 2020-11-30 08:00:00 # GMT time
 author: Srivatsa
 ---

@@ -2,7 +2,8 @@
 layout: post
 title: Differential Privacy in Healthcare
 description: Comparative study of privacy-preserving techniques for deep learning (Paper)
-img: /img/12.jpg
+img: /img/portfolio/DP_diagram.png
+style: "width:100%; height:auto;"
 date: 2019-12-01 13:00:00 # GMT time
 author: Srivatsa
 ---

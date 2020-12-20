@@ -2,7 +2,8 @@
 layout: post
 title: You Only Spike Once (YOSO)
 description: Improving Energy-Efficient Neuromorphic Inference to ANN-Level Accuracy (Paper)
-img: /img/12.jpg
+img: /img/portfolio/YOSO-paper-title.png
+style: "width:100%; height:auto;"
 date: 2020-05-20 02:00:00 # GMT time
 author: Srivatsa
 ---

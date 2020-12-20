@@ -2,7 +2,8 @@
 layout: post
 title: NatashaBot
 description: Legal chatbot for migrant workers
-img: /img/12.jpg
+img: /img/portfolio/natashabot-chat.png
+style: "width:50%; height:auto;"
 date: 2018-10-27 16:00:00 # GMT time
 author: Srivatsa
 ---

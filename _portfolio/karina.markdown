@@ -2,7 +2,8 @@
 layout: post
 title: Karina
 description: Guidance system for In-Vitro Fertilization (IVF) patients
-img: /img/12.jpg
+img: /img/portfolio/physician-dashboard.png
+style: "width:100%; height:auto;"
 date: 2018-11-15 08:00:00 # GMT time
 author: Srivatsa
 ---
