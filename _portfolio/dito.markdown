@@ -42,10 +42,10 @@ siblings, family and friends.
 <h2>How it works</h2>
 
 The wooden blocks that we built were carefully painted with unique colours. This
-is so that our in-game Machine Learning model can identify the position
+is so that our in-game machine learning model can identify the position
 of the different blocks in space. Depending on how the different blocks are
-brought together, the corresponding in-game object can change. Our Machine
-Learning system is able to identify orientation and position of the blocks in
+brought together, the corresponding in-game object can change. Our machine
+learning system is able to identify orientation and position of the blocks in
 real space, making it an addictive game for almost anyone.
 
 <iframe src="https://drive.google.com/file/d/1GBzt4RXm04i1ZghCoUMmEzaBq-hUM-Yj/preview" width="100%" height="720" frameBorder="0"></iframe>

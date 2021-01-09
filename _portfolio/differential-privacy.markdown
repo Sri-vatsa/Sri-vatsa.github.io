@@ -21,8 +21,8 @@ In recent years, along with the rise of machine learning across a wide plethora 
 With growing concerns over privacy, this work aims to study privacy preservation
 techniques using the differential privacy framework and, draw comparisons
 between medical and non-medical datasets from a privacy standpoint. We compare
-the use of Differentially Private Stochastic Gradient Descent(DP-SGD) and
-Private Aggregation of Teacher Ensembles(PATE) on three publicly available
+the use of Differentially Private Stochastic Gradient Descent (DP-SGD) and
+Private Aggregation of Teacher Ensembles (PATE) on three publicly available
 datasets.
 
 <img class="center" src="{{ site.baseurl }}/img/portfolio/DP_diagram.png" alt=""
@@ -35,8 +35,8 @@ title="differential-privacy diagram"/>
 
 In the past decade, Differential Privacy has become the de-facto framework for performing privacy analysis. There
 are numerous relaxations of Differential Privacy with the most prominent ones
-being epsilon,delta-Differential Privacy(DP) and R\'enyi Differential
-Privacy(RDP).
+being epsilon,delta-Differential Privacy (DP) and R\'enyi Differential
+Privacy (RDP).
 
 <ul>
     <li>Healthcare datasets are usually plagued with missing values and class imbalance problems. It was found that these factors affected the utility privacy trade-off significantly.</li>

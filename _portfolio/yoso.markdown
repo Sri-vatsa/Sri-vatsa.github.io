@@ -34,21 +34,21 @@ where the information is encoded by spike rates. Generally, rate-based SNNs can
 be inefficient as a large number of spikes will be transmitted and
 processed during inference. A more efficient encoding scheme is the
 time-to-first-spike (TTFS) encoding, where the information is encoded in
-therelative time of arrival of spikes. In TTFS-based SNNs, each neuron can only
-spike once during the entire inference process and thisresults in high sparsity.
+the relative time of arrival of spikes. In TTFS-based SNNs, each neuron can only
+spike once during the entire inference process and this results in high sparsity.
 While TTFS-based SNNs are more sparse than rate-based SNNs, they have yet to
-achieve the same accuracy asrate-based SNNs. 
+achieve the same accuracy as rate-based SNNs. 
 
 <h2>What I did</h2>
 
-The main objective of this work is to accelerate the inference of TTFS-based SNNs on low-power devices, with minimal loss to accuracy.
-Therefore, this work focuses on (1) improving the classification performance of
+The main objective of our work was to accelerate the inference of TTFS-based SNNs on low-power devices, with minimal loss to accuracy.
+Therefore, this work focused on (1) improving the classification performance of
 TTFS-based SNNs, and (2) designing a low-power neuromorphic hardware accelerator
 for performing inference of TTFS-based SNNs. The main contributions of this work
 can be listed as follows:
 <ul>
     <li>A new training algorithm that reduces the errors accumulated as a result of converting pre-trained neural network models to SNNs.</li> 
-    <li> A novel low-power neuromorphic architecture, YOSO is designed to accelerate the inference operations of TTFS-based SNNs.</li> 
+    <li> A novel low-power neuromorphic architecture, YOSO, designed to accelerate the inference operations of TTFS-based SNNs.</li> 
     <li>An end-to-end neuromorphic technique that demonstrates the state-of-the-art performance and accuracy for TTFS-based SNNs.</li> 
 </ul>
 

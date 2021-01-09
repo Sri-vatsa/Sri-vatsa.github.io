@@ -21,19 +21,19 @@ obtain body measurements:
 <li>Train their sales-staff to take measurements of customers</li>
 </l>
 <br>
-The third option has become increasingly popular. After carefully studying the process, we realised that one of these methods involving <u>training sales staff to take measurements could be made more accurate and yield higher cost-savings</u>. We operationalised ‘accurate’ as ‘measuring within 5% of an expert tailor’s measurement’ and ‘cost-saving’ as ‘taking up less monetary resources and time compared to current methods’.
+The third option has become increasingly popular. After carefully studying the process of various tailors, we realised that <u>training sales staff to take measurements could be made more accurate and yield higher cost-savings</u>. We operationalised ‘accurate’ as ‘measuring within 5% of an expert tailor’s measurement’ and ‘cost-saving’ as ‘taking up less monetary resources and time compared to current methods’.
+
+<h2>What we did</h2>
 
 <em>Design statement:</em> <b>Build a guidance system for modern tailors to enable their salespersons to take
 accurate body measurements at high cost-savings.</b>
 
-<h2>What we did</h2>
-
 We designed a solution that uses a guidance system to train salespersons in
-modern tailor stores empowering them with the ability to replicate the mastery and
-finesse of their master tailor. With the use of a <u>smart tape, an interactive guidance system
-and our custom Machine Learning algorithm</u>, we were able to obtain the curved and linear
-measurements of a person required to tailor a shirt with an accuracy of <b>+/- 5mm</b>
-and obtain time and cost savings all at the same time.
+modern tailor stores empowering them to replicate the mastery and
+the finesse of their master tailor. With the use of a <u>smart tape, an interactive guidance system
+and our proposed <b>pose estimation</b> algorithm</u>, we were not only able to obtain curved and linear
+measurements of users with an accuracy of <b>+/- 5mm</b>
+but also achieve time and cost savings.
 
 The figure below shows a detailed breakdown of the different components within
 the UNIT smart sensing platform:
@@ -56,7 +56,7 @@ Watch a full demonstration in the following video:
 <iframe src="https://drive.google.com/file/d/14QH3OnhbTf6qJnuxz-orIDn4BeljxsKG/preview" width="100%" height="720" frameBorder="0"></iframe>
 
 <div class="col three caption">
-    Video: A demonstration of how the entire UNIT system works.
+    Video: A demonstration of how the UNIT system works.
 </div>
 
 A detailed report of the project can be found <a class="text-link" href="https://drive.google.com/file/d/1yH_PVcHDeiybbYQR1RrGZaZMi58fEMLi/view?usp=sharing">here</a>.
