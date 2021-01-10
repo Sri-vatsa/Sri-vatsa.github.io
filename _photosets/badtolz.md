@@ -2,10 +2,10 @@
 layout: photo_set
 title: Bad Tolz, Germany
 permalink: /badtolz/
-img: /img/photos/BadTolz/IMG_1.jpg
+img: /img/photos/Badtolz/IMG_1.jpg
 description: "Photos from Bad Tolz"
 
 photos:
-    set: BadTolz
+    set: Badtolz
     size: 8
 ---
