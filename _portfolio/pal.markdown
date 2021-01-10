@@ -8,7 +8,7 @@ date: 2020-11-30 08:00:00 # GMT time
 author: Srivatsa
 ---
 
-<h2>The Problem</h2>
+<h2>The problem</h2>
 
 Amidst a virulent pandemic and an austere economic climate, stress, fear and
 worry have pervaded many of our minds. It is more important than ever to promote

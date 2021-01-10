@@ -39,7 +39,7 @@ spike once during the entire inference process and this results in high sparsity
 While TTFS-based SNNs are more sparse than rate-based SNNs, they have yet to
 achieve the same accuracy as rate-based SNNs. 
 
-<h2>What I did</h2>
+<h2>What we did</h2>
 
 The main objective of our work was to accelerate the inference of TTFS-based SNNs on low-power devices, with minimal loss to accuracy.
 Therefore, this work focused on (1) improving the classification performance of
