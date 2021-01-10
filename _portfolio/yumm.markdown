@@ -3,7 +3,7 @@ layout: post
 title: Yumm
 description: An app to monitor patients' treatment side effects and emotional well-being
 img: /img/portfolio/yhealthlab-logo.png
-style: "width:60%; height:auto;"
+style: "width:55%; height:auto;"
 date: 2021-01-08 08:00:00 # GMT time
 author: Srivatsa
 ---
