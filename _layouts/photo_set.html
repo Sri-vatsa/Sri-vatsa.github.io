@@ -9,7 +9,9 @@ layout: default
 <div class="gallery">
   {% for i in (1..num) %}
   <div class="gallery__img">
-    <img src="{{ site.baseurl }}/img/photos/{{ page.photos.set }}/IMG_{{ i }}.jpg" alt="Photo {{ i }} from {{ page.photos.set | capitalize }}">
+    <img src="{{ site.baseurl }}/img/photos/{{ page.photos.set }}/IMG_{{ i
+    }}.jpg" loading="lazy" alt="Photo {{ i }} from {{ page.photos.set |
+    capitalize }}">
   </div>
   {% endfor %}
 </div>
