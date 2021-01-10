@@ -20,6 +20,9 @@ collections:
   portfolio:
     output: true
     permalink: /portfolio/:path/
+  photosets:
+    output: true
+    permalink: /photos/:path/
 
 # Gems
 gems: [jekyll-paginate]

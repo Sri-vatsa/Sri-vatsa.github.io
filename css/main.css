@@ -25,6 +25,7 @@
  *  17. contact
  *  18. footer
  *  19. blog
+ *  20. photo gallery
  *
  * =================================================================== 
  */
@@ -1481,7 +1482,7 @@ header .logo a {
  * ------------------------------------------------------------------- 
  */
 #intro {
-	background: #151515 url(../img/intro-bg.jpg) no-repeat center bottom;
+	background: #151515 url(../img/backgrounds/intro-bg.jpg) no-repeat center bottom;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
@@ -3253,4 +3254,27 @@ h4 {
 .post-link {
 	display: block;
 	font-size: 42px;
+}
+
+/** 
+ * ===================================================================
+ * 20. photo gallery
+ *
+ * ------------------------------------------------------------------- 
+ */
+
+.gallery {
+    display: grid;
+    /*grid-template-columns: repeat(2, 8fr);*/
+	/*grid-template-rows: repeat(2, 5vw);*/
+	grid-template-columns: repeat(2, 1fr);
+	grid-auto-columns: minmax(100px, 50%);
+	grid-auto-rows: minmax(100px, auto);
+    grid-gap: 15px;
+}
+
+.gallery__img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
 }
